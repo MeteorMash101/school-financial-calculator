@@ -1,0 +1,21 @@
+{
+  "name": "ReplitReactjsProject",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.3",
+    "@vitejs/plugin-react-refresh": "^1.1.0",
+    "fuse.js": "^6.4.6",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-router-dom": "^5.2.0",
+    "react-select-search": "^3.0.7",
+    "vite": "^2.2.1"
+  }
+}
